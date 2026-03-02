@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(204, 255, 0);
+    background-image: url(img/bloke.jpg);
+}
+h1{
+    font-family: cursive;
+    font-style: italic;
+    color: rgb(66, 0, 0);
+}
